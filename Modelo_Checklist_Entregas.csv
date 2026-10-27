@@ -1,0 +1,11 @@
+#;Item a validar;Tipo;Onde validar;Status;Observações
+1;Login / autenticação;Funcionalidade;Tela de login;Pendente;
+2;Cadastro de cliente;Funcionalidade;Tela de cadastro;Pendente;
+3;Fluxo de compra (carrinho até pagamento);Fluxo;E2E;Pendente;
+4;Regra de frete por CEP;Regra;Simulação;Pendente;
+5;Integração com ERP;Integração;Ambiente de teste;Pendente;
+6;Relatório de vendas;Tela;Tela de relatórios;Pendente;
+7;Prazos e mensagens do sistema;Comportamento;;Pendente;
+;;Tela;;Pendente;
+;;Fluxo;;Pendente;
+;;Regra;;Pendente;
